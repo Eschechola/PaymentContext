@@ -1,0 +1,8 @@
+C:\Users\Lucas\Desktop\Git\PaymentContext\PaymentContext\PaymentContext.Domain\bin\Debug\netcoreapp3.0\PaymentContext.Domain.deps.json
+C:\Users\Lucas\Desktop\Git\PaymentContext\PaymentContext\PaymentContext.Domain\bin\Debug\netcoreapp3.0\PaymentContext.Domain.dll
+C:\Users\Lucas\Desktop\Git\PaymentContext\PaymentContext\PaymentContext.Domain\bin\Debug\netcoreapp3.0\PaymentContext.Domain.pdb
+C:\Users\Lucas\Desktop\Git\PaymentContext\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.0\PaymentContext.Domain.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Git\PaymentContext\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Git\PaymentContext\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Git\PaymentContext\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.0\PaymentContext.Domain.dll
+C:\Users\Lucas\Desktop\Git\PaymentContext\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.0\PaymentContext.Domain.pdb
