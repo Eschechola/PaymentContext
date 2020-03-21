@@ -1,9 +1,0 @@
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp2.2\PaymentContext.Shared.deps.json
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp2.2\PaymentContext.Shared.dll
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp2.2\PaymentContext.Shared.pdb
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.csproj.CoreCompileInputs.cache
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.AssemblyInfoInputs.cache
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.AssemblyInfo.cs
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.dll
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.pdb
-C:\Users\lgabriel\Documents\Lucas Gabriel\PaymentContext\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.csprojAssemblyReference.cache
