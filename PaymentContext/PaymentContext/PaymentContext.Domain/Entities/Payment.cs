@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using PaymentContext.Domain.ValueObjects;
+using PaymentContext.Shared.Entities;
+using System;
 
 namespace PaymentContext.Domain.Entities
 {
-    public abstract class Payment
+    public abstract class Payment : Entity
     {
-        protected Payment(DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string address, string payer, string document)
+        protected Payment(DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, Address address, string payer, ValueObjects.Document document)
         {
             Number = Guid.NewGuid().ToString().Replace("-","").Substring(0,10).ToUpper();
             PaidDate = paidDate;
@@ -23,8 +23,8 @@ namespace PaymentContext.Domain.Entities
         public DateTime ExpireDate { get; private set; }
         public decimal Total { get; private set; }
         public decimal TotalPaid { get; private set; }
-        public string Address { get; private set; }
+        public Address Address { get; private set; }
         public string Payer { get; private set; }
-        public string Document { get; private set; }
+        public ValueObjects.Document Document { get; private set; }
     }
 }

@@ -1,10 +1,10 @@
-﻿using System;
+﻿using PaymentContext.Shared.Entities;
+using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace PaymentContext.Domain.Entities
 {
-    public class Subscription
+    public class Subscription : Entity
     {
         private readonly IList<Payment> _payments;
 

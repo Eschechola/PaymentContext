@@ -1,29 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using PaymentContext.Domain.ValueObjects;
+using System;
 
 namespace PaymentContext.Domain.Entities
 {
     public class PaypalPayment : Payment
     {
         public PaypalPayment(
-            string email,
+            Email email,
             string transactionCode,
 
             DateTime paidDate,
             DateTime expireDate,
             decimal total,
             decimal totalPaid,
-            string address,
+            Address address,
             string payer,
-            string document
+            ValueObjects.Document document
         ) : base(paidDate, expireDate, total, totalPaid, address, payer, document)
         {
             Email = email;
             TransactionCode = transactionCode;
         }
 
-        public string Email { get; private set; }
+        public Email Email { get; private set; }
         public string TransactionCode { get; private set; }
     }
 }

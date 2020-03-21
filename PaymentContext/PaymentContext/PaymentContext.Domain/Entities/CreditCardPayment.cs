@@ -1,6 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using PaymentContext.Domain.ValueObjects;
+using System;
 
 namespace PaymentContext.Domain.Entities
 {
@@ -15,9 +14,9 @@ namespace PaymentContext.Domain.Entities
             DateTime expireDate,
             decimal total,
             decimal totalPaid,
-            string address,
+            Address address,
             string payer,
-            string document
+            ValueObjects.Document document
         ) : base(paidDate, expireDate, total, totalPaid, address, payer, document)
         {
             CardHolderName = cardHolderName;
